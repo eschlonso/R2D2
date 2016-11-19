@@ -1,0 +1,364 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"al",
+				"alert"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/Supervielle/_sitio/Menu.html",
+		"/C/wamp/www/Supervielle/_sitio/Menu.css",
+		"/C/wamp/www/Supervielle/_sitio/addResumenDigital.html",
+		"/C/wamp/www/Supervielle/_sitio/administracion01.html",
+		"/C/wamp/www/Supervielle/_sitio/administracion02.html",
+		"/C/wamp/www/Supervielle/_sitio/administracion03.html",
+		"/C/wamp/www/Supervielle/_sitio/administracion04.html",
+		"/C/wamp/www/Supervielle/_sitio/administracion06.html",
+		"/C/wamp/www/Supervielle/_sitio/administracion07.html",
+		"/C/wamp/www/Supervielle/_sitio/administrar_cda.html",
+		"/C/wamp/www/Supervielle/_sitio/aprobaciones.html",
+		"/C/wamp/www/Supervielle/_sitio/aprobaciones/Banco Supervielle - IC-Banking.html",
+		"/C/wamp/www/Supervielle/_sitio/aprobaciones/Banco Supervielle - IC-Banking_files/Header.html",
+		"/C/wamp/www/Supervielle/_sitio/aprobaciones/Banco Supervielle - IC-Banking_files/Home.html",
+		"/C/wamp/www/Supervielle/_sitio/aprobaciones/historial.html",
+		"/C/wamp/www/Supervielle/_sitio/aprobaciones/historial_files/Header.html",
+		"/C/wamp/www/Supervielle/_sitio/aprobaciones/historial_files/Home.html",
+		"/C/wamp/www/Supervielle/_sitio/Banco Supervielle - IC-Banking_files/Header.html",
+		"/C/wamp/www/Supervielle/_sitio/cheques.html",
+		"/C/wamp/www/Supervielle/_sitio/configuraciones01.html",
+		"/C/wamp/www/Supervielle/_sitio/configuraciones02.html",
+		"/C/wamp/www/Supervielle/_sitio/consultaNomina.html",
+		"/C/wamp/www/Supervielle/_sitio/cotizacion_de_monedas.html",
+		"/C/wamp/www/Supervielle/_sitio/cuentas_acuerdos.html",
+		"/C/wamp/www/Supervielle/_sitio/cuentas_acuerdos1.html",
+		"/C/wamp/www/Supervielle/_sitio/cuentas_chequera.html",
+		"/C/wamp/www/Supervielle/_sitio/default/ayuda.html",
+		"/C/wamp/www/Supervielle/_sitio/default/ayuda_files/Header.html",
+		"/C/wamp/www/Supervielle/_sitio/default/ayuda_files/Home.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - acuerdos.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - acuerdos_files/Header.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - acuerdos_files/Home.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - movimientos.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - movimientos_files/Header.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - movimientos_files/Home.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - solicitud chequera - consultar.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - solicitud chequera - consultar_files/Header.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - solicitud chequera - consultar_files/Home.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - solicitud chequera- solicitar-ok.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - solicitud chequera- solicitar-ok_files/Header.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - solicitud chequera- solicitar-ok_files/Home.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - solicitud chequera- solicitar.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - solicitud chequera- solicitar_files/Header.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - solicitud chequera- solicitar_files/Home.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - solicitud chequera.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - solicitud chequera_files/Header.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking - solicitud chequera_files/Home.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking0.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking0_files/Header.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking_files/Header.html",
+		"/C/wamp/www/Supervielle/_sitio/default/cambioclave.html",
+		"/C/wamp/www/Supervielle/_sitio/default/cambioclave_files/Header.html",
+		"/C/wamp/www/Supervielle/_sitio/default/cambioclave_files/Home.html",
+		"/C/wamp/www/Supervielle/_sitio/default/contactenos-ok.html",
+		"/C/wamp/www/Supervielle/_sitio/default/contactenos-ok_files/Header.html",
+		"/C/wamp/www/Supervielle/_sitio/default/contactenos-ok_files/Home.html",
+		"/C/wamp/www/Supervielle/_sitio/default/contactenos.html",
+		"/C/wamp/www/Supervielle/_sitio/default/contactenos_files/Header.html",
+		"/C/wamp/www/Supervielle/_sitio/default/contactenos_files/Home.html",
+		"/C/wamp/www/Supervielle/_sitio/factoringResumen.html",
+		"/C/wamp/www/Supervielle/_sitio/historial.html",
+		"/C/wamp/www/Supervielle/_sitio/liq_comercios.html",
+		"/C/wamp/www/Supervielle/_sitio/login1.html",
+		"/C/wamp/www/Supervielle/_sitio/login1/Banco Supervielle.html",
+		"/C/wamp/www/Supervielle/_sitio/login2.html",
+		"/C/wamp/www/Supervielle/_sitio/movimientos1.html",
+		"/C/wamp/www/Supervielle/_sitio/plazos_fijos.html",
+		"/C/wamp/www/Supervielle/_sitio/posicion_consolidada/Banco Supervielle - IC-Banking.html",
+		"/C/wamp/www/Supervielle/_sitio/posicion_consolidada/Banco Supervielle - IC-Banking_files/Header.html",
+		"/C/wamp/www/Supervielle/_sitio/resumenDigital.html",
+		"/C/wamp/www/Supervielle/_sitio/resumenOperaciones.html",
+		"/C/wamp/www/Supervielle/_sitio/solicitudChequera.html",
+		"/C/wamp/www/Supervielle/_sitio/solicitudChequera1.html",
+		"/C/wamp/www/Supervielle/_sitio/transferencia1.html",
+		"/C/wamp/www/Supervielle/_sitio/transferencia2.html",
+		"/C/wamp/www/Supervielle/_sitio/transferencia3.html",
+		"/C/wamp/www/Supervielle/_sitio/transferencia4.html",
+		"/C/wamp/www/Supervielle/_sitio/transferencia5.html",
+		"/C/wamp/www/Supervielle/_sitio/transferencia6.html",
+		"/C/wamp/www/Supervielle/_sitio/Banco Supervielle - IC-Banking_files/Home.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking0_files/Home.html",
+		"/C/wamp/www/Supervielle/_sitio/default/Banco Supervielle - IC-Banking_files/Home.html",
+		"/C/wamp/www/Supervielle/_sitio/posicion_consolidada/Banco Supervielle - IC-Banking_files/Home.html",
+		"/C/wamp/www/Supervielle/_sitio/posicionConsolidada.html",
+		"/C/wamp/www/Supervielle/_sitio/addServicios.html",
+		"/C/wamp/www/Supervielle/_sitio/FCItenencia.html",
+		"/C/wamp/www/Supervielle/_sitio/pagos.html",
+		"/C/wamp/www/Supervielle/_sitio/pagosConsulta.html",
+		"/C/wamp/www/Supervielle/_sitio/Default.css",
+		"/C/wamp/www/Supervielle/_sitio/rutas.js",
+		"/C/wamp/www/Supervielle/_sitio/data.txt",
+		"/C/wamp/www/Supervielle/_sitio/addcode.html",
+		"/C/wamp/www/JAVY/supervielle/_limpio/Menu.html",
+		"/C/wamp/www/JAVY/supervielle/_limpio/rutas.js",
+		"/C/wamp/www/Supervielle/_sitio/transferencia7.html",
+		"/C/wamp/www/Supervielle/_material/traseferencias/historial_files/Home.html",
+		"/C/wamp/www/Supervielle/_material/traseferencias/transferecia 24 48_files/Home.html",
+		"/C/wamp/www/Supervielle/_material/traseferencias/entre cuentas superville_files/Home.html",
+		"/C/wamp/www/Supervielle/_material/traseferencias/aprobaciones_files/Home.html",
+		"/C/wamp/www/Supervielle/_material/traseferencias/mis cuentas de credito-agregar_files/Home.html",
+		"/C/wamp/www/Supervielle/_material/traseferencias/mis cuentas de credito-modificar_files/Home.html",
+		"/C/wamp/www/Supervielle/_material/cuentas/chequeras consultar_files/Home.html",
+		"/C/wamp/www/vote_usa/landing/index.php",
+		"/C/wamp/www/vote_usa/banners/Banners/add_voto.php",
+		"/C/wamp/www/vote_usa/banners/Banners/1.php",
+		"/C/wamp/www/vote_usa/banners/Banners/1.html",
+		"/C/wamp/www/supervielle_homeBanking/_sitio/posicion_consolidada/Banco Supervielle - IC-Banking_files/Home.html",
+		"/C/wamp/www/supervielle_homeBanking/_sitio/login1.html",
+		"/C/wamp/www/supervielle_homeBanking/_sitio/login2.html",
+		"/C/wamp/www/supervielle_homeBanking/_sitio/index.html",
+		"/C/wamp/www/supervielle_homeBanking/_sitio/rutas.js",
+		"/C/wamp/www/supervielle_homeBanking/_sitio/top.html",
+		"/C/wamp/www/supervielle_homeBanking/_sitio/Estilo.css",
+		"/C/wamp/www/supervielle_homeBanking/_sitio/inicio.html",
+		"/C/wamp/www/supervielle_homeBanking/_sitio/posicionConsolidada.html",
+		"/C/wamp/www/supervielle_homeBanking/_sitio/Login.css",
+		"/C/wamp/www/supervielle_homeBanking/_sitio/Banco Supervielle_files/Login.css",
+		"/C/wamp/www/supervielle_homeBanking/_sitio/js/rutas.js",
+		"/C/wamp/www/Supervielle/aprobaciones/Banco Supervielle - IC-Banking_files/Default.css",
+		"/C/wamp/www/Supervielle/aprobaciones/Banco Supervielle - IC-Banking_files/Home.html",
+		"/C/wamp/www/nyx/js/plugins.js",
+		"/C/wamp/www/nyx/js/finaltilesgallery.js",
+		"/C/wamp/www/nyx/results.php",
+		"/C/wamp/www/nyx/js/main-new.js",
+		"/C/wamp/www/nyx/stream.html",
+		"/C/wamp/www/tedx/tedx landing/videos.php",
+		"/C/wamp/www/tedx/tedx landing/paginacion_videos.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\Supervielle\\_sitio,-Menu.html",
+			"C:\\wamp\\www\\Supervielle\\_sitio",
+			"<Menu.html>",
+			"C:\\wamp\\www\\Supervielle\\_sitio,-Menu.html,-top.html,-rutas.js,-index.html,-inicio.html",
+			"C:\\wamp\\www\\Supervielle\\_sitio,-Menu.html,-top.html,-rutas.js,-index.html,-inicio.html,-",
+			"C:\\wamp\\www\\Supervielle\\_sitio",
+			"C:\\wamp\\www\\Supervielle",
+			"C:\\wamp\\www\\Supervielle\\_sitio"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Transaction_Aproved.aspx",
+			"/Pages/Common/Transaction_Aproved.aspx",
+			"Pages/Common/Transaction_Aproved.aspx",
+			"http://10.1.75.104:9080/Menu.aspx",
+			"http://10.1.75.104:9080/",
+			"10.1.75.104:908",
+			"http://10.1.75.104:9080/Home.aspx",
+			"10.1.75.104",
+			"<a id=\"ctl00_LinkButtonTermsAndConditions\" class=\"ic-grid-link\" href=\"javascript:__doPostBack(&#39;ctl00$LinkButtonTermsAndConditions&#39;,&#39;&#39;)\">Términos y Condiciones</a>",
+			"Términos y Condiciones",
+			"javascript:__doPostBack('ctl00$LinkButtonTermsAndConditions','')",
+			"href=\"javascript:__doPostBack('ctl00$LinkButtonTermsAndConditions','')\"",
+			"var imgPath='/App_Themes/Default/Images/';",
+			"var imgPath='/App_Themes/Default/Images/';	",
+			"App_Themes/Default/Images/bot-grid-plus.gif",
+			"/App_Themes/Default/Images/bot-grid-plus.gif",
+			"adminis",
+			"coti",
+			"adminis",
+			"liquidaciones",
+			"plazo",
+			"bot17",
+			"bot18",
+			"bot17",
+			"transferencias",
+			"bot14",
+			"consultar",
+			"css",
+			".ic-grid-title-row",
+			".css",
+			".ic-content-left",
+			"ctl00_MainHolder_Image34",
+			"ingresar",
+			"A.ic-button",
+			"ic-log-form-space-button2",
+			"ctl00_MainHolder_Image10",
+			".ic-header-logo-content",
+			".ic-header-toolbar-content",
+			"bot-toolbar",
+			"consultar",
+			"expresa constancia",
+			"campo",
+			"cargar",
+			"mifun"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"<a id=\"ctl00_LinkButtonTermsAndConditions\" class=\"ic-grid-link\" href=\"terminosCondi.html\">Términos y Condiciones</a>",
+			"var imgPath='App_Themes/Default/Images/';",
+			"var imgPath='App_Themes/Default/Images/';	",
+			"App_Themes/Default/Images/bot-grid-plus.gif"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
