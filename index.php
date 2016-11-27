@@ -872,7 +872,7 @@ input{
 	<div class="row">
 
 
-	  <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" style="background-color:gray;height:400px;">
+	  <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" style="height:400px;">
 
 	  <div style="font-size:22px;font-weight:bold;" class="text-center">R2D2 "ARTURITO"</div>
 	  <p class="text-center">es mi ayudante y tanque de ideas</p>
@@ -882,7 +882,7 @@ input{
 
 
 </div>
-	  <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9" style="background-color:gray;height:400px;">
+	  <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 text-center" style="height:100%;">
 
 
 
@@ -920,7 +920,7 @@ input{
 
 
 		
-	<div style="padding:15px;background-color:gray;">
+	<div style="">
 	
 	
 	
@@ -938,10 +938,151 @@ input{
 			  -->
 			  <div style="height:20px;"></div>
 			  
+	<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		
+		    <input type="submit" name="Submit37" value="Finanzas" class="mibotonsito"  style="background:white url('FINANZAS.jpg');background-size: 65px 65px;background-repeat:no-repeat; background-position:50% 0px; " onClick="window.open('finanzas/index.php','_blank')">
+
+
+	</div>		  
+
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		
+		    <input type="submit" name="Submit36" value="Tracker tiempo" class="mibotonsito"  style="background:white url('11371551-cronometro-sobre-fondo-blanco-aislados-imagen-en-3d.jpg');background-size: 55px 55px;background-repeat:no-repeat; background-position:50% 4px; " onClick="window.open('tracker/index.php','_blank')">
+
+
+	</div>	
+
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		
+
+                         <input type="button" name="Submit38" value="Mis tareas" class="mibotonsito"  style="background:white  url('task.png');background-size: 48px 48px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('tareas/3.php','_blank')">
+
+
+
+
+
+                          
+
+                             
+
+                             
+
+
+	</div>	
+
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		
+
+
+                 
+
+
+      <input type="submit" name="Submit39" value="Calendario" class="mibotonsito"  style="background:white url('icono_Calendario.jpg');background-size: 55px 55px;background-repeat:no-repeat; background-position:50% 6px; " onClick="window.open('http://www.google.com/calendar/render?hl=es','_blank')">
+
+                        
+
+                          
+
+
+
+	</div>	
+
+	<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		
+
+                        <input type="submit" name="Submit39" value="Clima" class="mibotonsito"  style="background:white url('icono_Calendario.jpg');background-size: 55px 55px;background-repeat:no-repeat; background-position:50% 6px; " onClick="window.open('https://www.google.com.ar/?gfe_rd=cr&ei=F_g6WJH_DqPV8AeSz5y4CQ&gws_rd=ssl#q=clima','_blank')">
+
+
+                          
+
+
+
+	</div>		  
+
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		
+
+                          <input type="submit" name="Submit310" value="Camaras casa" class="mibotonsito"  style="background:white url('wsites.png');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('generadorweb/index.php','_blank')">
+
+
+                          
+                    
+
+
+	</div>	
+
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		
+      <input type="submit" name="Submit310" value="Camaras ciudad" class="mibotonsito"  style="background:white url('excel.jpg');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('https://docs.google.com/spreadsheet/ccc?key=0AuG3DD76WSZBdHUxSVNBaG1KdzFMT2Z6ZGE4NGt5THc&usp=sharing','_blank')">
+
+
+
+
+
+	</div>	
+
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		
+	
+                          <input type="submit" name="Submit310" value="Estado Transito" class="mibotonsito"  style="background:white url('Drive Backup.png');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('backuplocal/index.php','_blank')">
+
+
+
+                      
+
+
+	</div>	
+
+	<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		
+    
+                          <input type="submit" name="Submit310" value="BackUp Local" class="mibotonsito"  style="background:white url('Drive Backup.png');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('backuplocal/index.php','_blank')">
+
+
+
+          
+
+	</div>		  
+
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		
+                
+
+                          <input type="submit" name="Submit310" value="GDrive" class="mibotonsito"  style="background:white url('Drive Backup.png');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('http://drive.google.com/','_blank')">
+
+
+
+
+	</div>	
+
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		
+
+
+                          <input type="submit" name="Submit310" value="Generador web" class="mibotonsito"  style="background:white url('wsites.png');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('generadorweb/index.php','_blank')">
+
+
+
+	</div>	
+
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		
+
+                          <input type="submit" name="Submit310" value="Notas" class="mibotonsito"  style="background:white url('excel.jpg');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('https://docs.google.com/spreadsheet/ccc?key=0AuG3DD76WSZBdHUxSVNBaG1KdzFMT2Z6ZGE4NGt5THc&usp=sharing','_blank')">
+
+
+
+
+	</div>	
 			  
-			  
-			  
-			  
+			
+
+
+
+
+
+
+	  <!--
 			  
 			  
              <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -977,7 +1118,7 @@ input{
 
 
 <div align="center">
-                          <input type="submit" name="Submit39" value="Calendario" class="mibotonsito"  style="background:white url('icono_Calendario.jpg');background-size: 55px 55px;background-repeat:no-repeat; background-position:50% 6px; " onClick="window.open('http://www.google.com/calendar/render?hl=es','_blank')">
+
                         </div>
 
 
@@ -986,7 +1127,9 @@ input{
 
 
 <div align="center">
-                          <input type="submit" name="Submit39" value="Clima" class="mibotonsito"  style="background:white url('icono_Calendario.jpg');background-size: 55px 55px;background-repeat:no-repeat; background-position:50% 6px; " onClick="window.open('https://www.google.com.ar/?gfe_rd=cr&ei=F_g6WJH_DqPV8AeSz5y4CQ&gws_rd=ssl#q=clima','_blank')">
+                          
+
+
                         </div>
 
 
@@ -997,21 +1140,27 @@ input{
 
 
 								<div align="center">
-                          <input type="submit" name="Submit310" value="Notas" class="mibotonsito"  style="background:white url('excel.jpg');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('https://docs.google.com/spreadsheet/ccc?key=0AuG3DD76WSZBdHUxSVNBaG1KdzFMT2Z6ZGE4NGt5THc&usp=sharing','_blank')">
+
                         </div>		
 
 								</td>
                         <td valign="top"><div align="center">
-                          <input type="submit" name="Submit310" value="Generador web" class="mibotonsito"  style="background:white url('wsites.png');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('generadorweb/index.php','_blank')">
+
+
                         </div></td>
                         <td height="40" valign="top"><div align="center">
-                          <input type="submit" name="Submit310" value="GDrive" class="mibotonsito"  style="background:white url('Drive Backup.png');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('http://drive.google.com/','_blank')">
+
+
+
                         </div></td>
                         <td valign="top"><div align="center">
-                          <input type="submit" name="Submit310" value="BackUp Local" class="mibotonsito"  style="background:white url('Drive Backup.png');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('backuplocal/index.php','_blank')">
+
+
+
                         </div></td>
                                                 <td valign="top"><div align="center">
-                          <input type="submit" name="Submit310" value="Estado Transito" class="mibotonsito"  style="background:white url('Drive Backup.png');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('backuplocal/index.php','_blank')">
+
+
                         </div></td>
                       </tr>
 
@@ -1021,21 +1170,27 @@ input{
 
 
 								<div align="center">
-                          <input type="submit" name="Submit310" value="Camaras ciudad" class="mibotonsito"  style="background:white url('excel.jpg');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('https://docs.google.com/spreadsheet/ccc?key=0AuG3DD76WSZBdHUxSVNBaG1KdzFMT2Z6ZGE4NGt5THc&usp=sharing','_blank')">
+
+
                         </div>		
 
 								</td>
                         <td valign="top"><div align="center">
-                          <input type="submit" name="Submit310" value="Camaras casa" class="mibotonsito"  style="background:white url('wsites.png');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('generadorweb/index.php','_blank')">
+
                         </div></td>
                         <td height="40" valign="top"><div align="center">
-                          <input type="submit" name="Submit310" value="GDrive" class="mibotonsito"  style="background:white url('Drive Backup.png');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('http://drive.google.com/','_blank')">
+
+
                         </div></td>
                         <td valign="top"><div align="center">
-                          <input type="submit" name="Submit310" value="BackUp Local" class="mibotonsito"  style="background:white url('Drive Backup.png');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('backuplocal/index.php','_blank')">
+                          
+
                         </div></td>
                                                 <td valign="top"><div align="center">
-                          <input type="submit" name="Submit310" value="BackUp Local" class="mibotonsito"  style="background:white url('Drive Backup.png');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('backuplocal/index.php','_blank')">
+
+
+
+
                         </div></td>
                       </tr>
                       
@@ -1043,7 +1198,7 @@ input{
                 </tr>
               </table>
 			  
-			  
+			  -->
 			  
 			  
 			  <div style="height:20px;"></div>
