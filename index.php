@@ -290,7 +290,12 @@ $jk=explode(":",$totales);
 <style type="text/css">
 	body{
 	background-color:#fefbec;
+	color: #000000;
 	font-family:Arial;
+	}
+
+	.botonsitos{
+margin-bottom: 20px;
 	}
 </style>
     <!-- Bootstrap 
@@ -610,6 +615,10 @@ body {
 .Estilo8 {color: #8d9396; font-size: 24px; }
 .Estilo10 {color: #8d9396; font-size: 26px; font-weight: bold; }
 
+.texto1{
+	color: #ffffff;
+}
+
 
 <?php if($_GET['b']=="0" or $_GET['b']=="3"){?>
 #tiempo_trakeado43{ display:none;}
@@ -827,6 +836,8 @@ window.onload = function() {
 .Estilo12 {font-size: 24px; }
 .Estilo13 {font-size: 16px}
 .Estilo14 {font-size: 18px}
+
+
 -->
 
 input{
@@ -862,97 +873,71 @@ input{
 
 
 
+<table>
+	<tr>
+	<td>
+	.	
+	</td>
+	</tr>
+</table>
 
 
-<div  style="background-color:#000000;"> 
-
-<div class="container" style="background-color:#EBEBEB;"> 
+<div class="container" style=""> 
 
 	<!-- Columns are always 50% wide, on mobile and desktop -->
 	<div class="row">
 
 
+ <table style="width:100%;background-color: #EBEBEB;">
+  <tr>
+    <td style="background-color: #54585A;">
+    	
+
+
+
+
+
+
+
 	  <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" style="height:400px;">
 
-	  <div style="font-size:22px;font-weight:bold;" class="text-center">R2D2 "ARTURITO"</div>
-	  <p class="text-center">es mi ayudante y tanque de ideas</p>
+	  <div style="font-size:22px;font-weight:bold;" class="text-center texto1">R2D2 "ARTURITO"</div>
+	  <p class="text-center texto1">es mi ayudante y tanque de ideas</p>
 
 <img src="r2d2.jpg" class="img-responsive center-block">
 
 
 
 </div>
-	  <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 text-center" style="height:100%;">
+<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 text-center" style="height:100%;">
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		
-	<div style="">
-	
-	
-	
-	
 	
 	
 			
-			<div align="center" style=" margin-bottom:10px;" id="Fecha_Reloj">
+			<div align="center" style=" margin-bottom:10px;" id="Fecha_Reloj" class="texto1">
               <div ></div>
-            </div></p>
+            </div>
          
 			  
-			  <!-- CLIMA API - NO FUNCIONA
-			  <iframe src="clima2/ejemplo2.php" width="100%" height="130px" align="center"></iframe>
-			  -->
-			  <div style="height:20px;"></div>
+			
 			  
-	<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+	<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center botonsitos" style="">
 		
 		    <input type="submit" name="Submit37" value="Finanzas" class="mibotonsito"  style="background:white url('FINANZAS.jpg');background-size: 65px 65px;background-repeat:no-repeat; background-position:50% 0px; " onClick="window.open('finanzas/index.php','_blank')">
 
 
 	</div>		  
 
-		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center botonsitos" style="">
 		
 		    <input type="submit" name="Submit36" value="Tracker tiempo" class="mibotonsito"  style="background:white url('11371551-cronometro-sobre-fondo-blanco-aislados-imagen-en-3d.jpg');background-size: 55px 55px;background-repeat:no-repeat; background-position:50% 4px; " onClick="window.open('tracker/index.php','_blank')">
 
 
 	</div>	
 
-		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center botonsitos" style="">
 		
 
                          <input type="button" name="Submit38" value="Mis tareas" class="mibotonsito"  style="background:white  url('task.png');background-size: 48px 48px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('tareas/3.php','_blank')">
@@ -970,7 +955,7 @@ input{
 
 	</div>	
 
-		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center botonsitos" style="">
 		
 
 
@@ -987,7 +972,7 @@ input{
 
 	</div>	
 
-	<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+	<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center botonsitos" style="">
 		
 
                         <input type="submit" name="Submit39" value="Clima" class="mibotonsito"  style="background:white url('icono_Calendario.jpg');background-size: 55px 55px;background-repeat:no-repeat; background-position:50% 6px; " onClick="window.open('https://www.google.com.ar/?gfe_rd=cr&ei=F_g6WJH_DqPV8AeSz5y4CQ&gws_rd=ssl#q=clima','_blank')">
@@ -999,7 +984,7 @@ input{
 
 	</div>		  
 
-		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center botonsitos" style="">
 		
 
                           <input type="submit" name="Submit310" value="Camaras casa" class="mibotonsito"  style="background:white url('wsites.png');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('generadorweb/index.php','_blank')">
@@ -1011,7 +996,7 @@ input{
 
 	</div>	
 
-		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center botonsitos" style="">
 		
       <input type="submit" name="Submit310" value="Camaras ciudad" class="mibotonsito"  style="background:white url('excel.jpg');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('https://docs.google.com/spreadsheet/ccc?key=0AuG3DD76WSZBdHUxSVNBaG1KdzFMT2Z6ZGE4NGt5THc&usp=sharing','_blank')">
 
@@ -1021,7 +1006,7 @@ input{
 
 	</div>	
 
-		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center botonsitos" style="">
 		
 	
                           <input type="submit" name="Submit310" value="Estado Transito" class="mibotonsito"  style="background:white url('Drive Backup.png');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('backuplocal/index.php','_blank')">
@@ -1033,7 +1018,7 @@ input{
 
 	</div>	
 
-	<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+	<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center botonsitos" style="">
 		
     
                           <input type="submit" name="Submit310" value="BackUp Local" class="mibotonsito"  style="background:white url('Drive Backup.png');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('backuplocal/index.php','_blank')">
@@ -1044,7 +1029,7 @@ input{
 
 	</div>		  
 
-		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center botonsitos" style="">
 		
                 
 
@@ -1055,7 +1040,7 @@ input{
 
 	</div>	
 
-		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-centerbotonsitos" style="">
 		
 
 
@@ -1065,7 +1050,7 @@ input{
 
 	</div>	
 
-		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-center" style="">
+		<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 text-centerbotonsitos" style="">
 		
 
                           <input type="submit" name="Submit310" value="Notas" class="mibotonsito"  style="background:white url('excel.jpg');background-size: 50px 50px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('https://docs.google.com/spreadsheet/ccc?key=0AuG3DD76WSZBdHUxSVNBaG1KdzFMT2Z6ZGE4NGt5THc&usp=sharing','_blank')">
@@ -1077,222 +1062,29 @@ input{
 			  
 			
 
+	</div>	
 
 
 
 
 
-	  <!--
-			  
-			  
-             <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                <tr>
-                  <td><table width="100%" border="0" cellpadding="3" cellspacing="0">
-                      <tr>
-                      	<td>
-						
-						<div align="center">
-                       
-                            <input type="submit" name="Submit37" value="Finanzas" class="mibotonsito"  style="background:white url('FINANZAS.jpg');background-size: 65px 65px;background-repeat:no-repeat; background-position:50% 0px; " onClick="window.open('finanzas/index.php','_blank')">
-                          </p>
-                          </div>						</td>
-                        <td width="35%" valign="middle">
-							<div align="center">
-            
-                          
-                            <input type="submit" name="Submit36" value="Tracker tiempo" class="mibotonsito"  style="background:white url('11371551-cronometro-sobre-fondo-blanco-aislados-imagen-en-3d.jpg');background-size: 55px 55px;background-repeat:no-repeat; background-position:50% 4px; " onClick="window.open('tracker/index.php','_blank')">
-                          </p>
-                          </div>	
-								</td>
-                        <td width="37%" height="40" valign="middle">
-						
-  <div align="center">
-                         
-            
-                            <input type="button" name="Submit38" value="Mis tareas" class="mibotonsito"  style="background:white  url('task.png');background-size: 48px 48px;background-repeat:no-repeat; background-position:50% 7px; " onClick="window.open('tareas/3.php','_blank')">
-                          </p>
-                          </div>	
 
-						</td>
-                        <td width="28%" valign="middle">
 
 
-<div align="center">
 
-                        </div>
 
 
-                        </td>
-                                                <td width="28%" valign="middle">
+    </td>
+  </tr>
+  <tr>
+    <td>
+    	
 
 
-<div align="center">
-                          
 
 
-                        </div>
 
 
-                        </td>
-                      </tr>
-                      <tr>
-                      	<td>
-
-
-								<div align="center">
-
-                        </div>		
-
-								</td>
-                        <td valign="top"><div align="center">
-
-
-                        </div></td>
-                        <td height="40" valign="top"><div align="center">
-
-
-
-                        </div></td>
-                        <td valign="top"><div align="center">
-
-
-
-                        </div></td>
-                                                <td valign="top"><div align="center">
-
-
-                        </div></td>
-                      </tr>
-
-
-                      <tr>
-                      	<td>
-
-
-								<div align="center">
-
-
-                        </div>		
-
-								</td>
-                        <td valign="top"><div align="center">
-
-                        </div></td>
-                        <td height="40" valign="top"><div align="center">
-
-
-                        </div></td>
-                        <td valign="top"><div align="center">
-                          
-
-                        </div></td>
-                                                <td valign="top"><div align="center">
-
-
-
-
-                        </div></td>
-                      </tr>
-                      
-                    </table>                    </td>
-                </tr>
-              </table>
-			  
-			  -->
-			  
-			  
-			  <div style="height:20px;"></div>
-
-			 
-              <!-- 
-                <label>
-                  <input type="button" name="Submit3" value="Google" onClick="window.open('http://www.google.com','_blank')">
-                  </label>
-                  <input type="button" name="Submit35" value="Youtube" onClick="window.open('http://www.youtube.com','_blank')">
-                   <input type="button" name="Submit3432333" value="Mercadolibre" onClick="window.open('http://www.mercadolibre.com.ar','_blank')">
-                  <input type="button" name="Submit32" value="Facebook" onClick="window.open('http://www.facebook.com','_blank')">
-                  <input type="button" name="Submit33" value="Hotmail" onClick="window.open('http://www.hotmail.com','_blank')">
-                  <input type="button" name="Submit34" value="Gmail" onClick="window.open('http://www.gmail.com','_blank')">
-                  <input type="button" name="Submit343232" value="Maps Google" onClick="window.open('https://maps.google.com/','_blank')">
-                 <input type="button" name="Submit322" value="Clarin" onClick="window.open('http://www.clarin.com','_blank')" >
-
-                 <input type="button" name="Submit3432333" value="Infobae" onClick="window.open('http://www.infobae.com/','_blank')">
-
-                 
-                  <input type="button" name="Submit34322" value="Clima" onClick="window.open('http://www.gmail.com','_blank')">
-                  
-
-                   <input type="button" name="Submit343" value="Traductor" onClick="window.open('http://translate.google.com.ar/','_blank')">
-
-
-                  <input type="button" name="Submit3432" value="Biblia" onClick="window.open('http://www.biblegateway.com/passage/?search=Hechos+2&version=NTV','_blank')">
-                  <input type="button" name="Submit34324" value="Bible" onClick="window.open('https://www.bible.com/es/bible/176/act.2.tla','_blank')">
-                  <input type="button" name="Submit34323" value="Vorterix" onClick="window.open('http://www.gmail.com','_blank')">
-                  <input type="button" name="Submit343233" value="Yahoo" onClick="window.open('http://www.yahoo.com','_blank')">
-                  <input type="button" name="Submit3432332" value="Noticias buenas" onClick="window.open('http://www.gmail.com','_blank')">
-         
-                  <input type="button" name="Submit3432333" value="AntesdelFin" onClick="window.open('http://www.antesdelfin.com','_blank')">
-                  <input type="button" name="Submit3432333" value="Alamaula" onClick="window.open('http://www.alamaula.com.ar','_blank')">
-                  <input type="button" name="Submit3432333" value="Zonajobs" onClick="window.open('http://www.zonajobs.com.ar','_blank')">
-                  <input type="button" name="Submit3432333" value="Olx" onClick="window.open('http://www.olx.com.ar','_blank')">
-              -->
-<p>      
-			  
-			  
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</div>		  
-			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- </div>
 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 
 
@@ -1371,13 +1163,44 @@ Categoria
 
 
 
-	</div>
-
-</div>
 
 
 
-</div>
+
+
+
+
+
+
+    </td>
+  </tr>
+</table> 
+
+			  
+			  
+	
+	</div>		  
+			
+
+
+
+
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -1388,6 +1211,13 @@ Categoria
  Include all compiled plugins (below), or include individual files as needed -->
 
 
+<table>
+	<tr>
+	<td>
+	.	
+	</td>
+	</tr>
+</table>
 
 
 
