@@ -561,7 +561,7 @@ function reloj(){
   -moz-border-radius: 11;
   border-radius: 11px;
   font-family: Arial;
-  color: #383838;
+  color: #000000;
   font-size: 18px;
   padding: 5px 10px 5px 10px;
   text-decoration: none;
