@@ -569,13 +569,14 @@ function reloj(){
 }
 
 .btn:hover {
-  background: #dedede;
-  background-image: -webkit-linear-gradient(top, #dedede, #f2f2f2);
-  background-image: -moz-linear-gradient(top, #dedede, #f2f2f2);
-  background-image: -ms-linear-gradient(top, #dedede, #f2f2f2);
-  background-image: -o-linear-gradient(top, #dedede, #f2f2f2);
-  background-image: linear-gradient(to bottom, #dedede, #f2f2f2);
+  background: #54585A;
+  background-image: -webkit-linear-gradient(top, #54585A, #000000);
+  background-image: -moz-linear-gradient(top, #54585A, #000000);
+  background-image: -ms-linear-gradient(top, #54585A, #000000);
+  background-image: -o-linear-gradient(top, #54585A, #000000);
+  background-image: linear-gradient(to bottom, #54585A, #000000);
   text-decoration: none;
+  color: #ffffff;
 }
 
 
@@ -888,9 +889,9 @@ input{
 	<div class="row">
 
 
- <table style="width:100%;background-color: #EBEBEB;">
+ <table style="width:100%;background-color: #EBEBEB; ">
   <tr>
-    <td style="background-color: #54585A;">
+    <td style="background-color: #54585A;padding:20px;">
     	
 
 
@@ -899,17 +900,17 @@ input{
 
 
 
-	  <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" style="height:400px;">
+	  <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4" style="height:400px;">
 
 	  <div style="font-size:22px;font-weight:bold;" class="text-center texto1">R2D2 "ARTURITO"</div>
-	  <p class="text-center texto1">es mi ayudante y tanque de ideas</p>
+	  
 
 <img src="r2d2.jpg" class="img-responsive center-block">
 
-
+<p class="text-center texto1">es mi ayudante y tanque de ideas</p>
 
 </div>
-<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 text-center" style="height:100%;">
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-7 text-center" style="height:100%;">
 
 
 
