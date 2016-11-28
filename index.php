@@ -937,7 +937,7 @@ input{
 
 
 
-	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 text-center">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 text-center">
 		
 			<div align="center" style=" margin-bottom:10px;" id="Fecha_Reloj" class="texto1">
               <div ></div>
@@ -945,7 +945,7 @@ input{
 
 
 	</div>
-	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 text-center texto1 texto2">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 text-center texto1 texto2">
 		
 Temperatura 23 c <br>		
 prob de precipitaciones 0%<br>
@@ -955,7 +955,7 @@ viento: a 14 km x hora<br>
 
 
 	</div>
-		<div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 text-center texto1 texto2">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 text-center texto1 texto2">
 		
 estado transito:
 <br>	tren:<br>calles:	<br>subtes:<br>	
