@@ -1,0 +1,366 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+html, body{
+	font:12px Arial, Helvetica, sans-serif;
+	height:100%; !important
+	color:#646464;
+}
+
+#imagenFondo{
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index:-50;
+	position:fixed;
+}
+
+p{
+	color:#646464;
+	margin-bottom:10px;
+}
+h1,h2,h3{
+	margin-bottom:7px;
+}
+hr{
+	margin-bottom:10px;
+}
+.clearer{
+	clear:both;
+}
+
+input{padding:2px;}
+
+input[type="submit"]{cursor:pointer;}
+
+a:link, a:visited{
+	text-decoration:none;
+	font-weight:bold;
+	color:#e005a1;
+}
+a:hover{
+	color:#e30000;
+}
+
+select{
+	border:none;
+	padding:5px 7px 5px 7px;
+	background:url(../img/fondo-input.jpg) repeat-x;
+	border-right:1px solid #888;
+	border-bottom:1px solid #888;
+}
+option{
+	font-size:11px;
+	background:#e5e5e5;
+}
+
+.left{float:left;}
+.right{float:right;}
+
+.cGral{
+	overflow:hidden;
+	height:auto;
+	margin:0 auto;
+}
+
+.frojo, .brojo{color:#e30000;}
+.fnegro{color:#202020;}
+.fazul{color:#06F;}
+.fblanco{color:#f8f8f8;}
+.fnaranja{color:#F60;}
+
+.bnegro{background:#202020; color:#e5e5e5;}
+.bgris{background:#ccc;}
+.bblanco{background:#fff; color:#000;}
+
+.pdd2{padding:2px;}
+.pdd4{padding:4px;}
+.pb10{padding-bottom:10px;}
+
+.lh22{line-height:22px;}
+
+.ml10{margin-left:10px;}
+.mr2{margin-right:2px;}
+.mr4{margin-right:4px;}
+.mr10{margin-right:10px;}
+.mt4{margin-top:4px;}
+.mt10{margin-top:10px;} .mt7{margin-top:7px;}
+.mb10{margin-bottom:10px;}
+.nmr{margin-right:0;}
+
+.br{border-right:1px solid #888; padding:0 2px 0 2px;}
+.center{text-align:center;}
+
+.coment{font-size:11px;}
+
+/**************************************************************/
+#contieneTodo{
+	width:100%;
+	overflow:hidden;
+	height:auto;
+	margin:0 auto;
+	/*background:url(../img/transBlanco.png);*/
+	background:url(../img/grid.png);
+}
+#contenedor{
+	margin:0 auto;
+	margin-top:8px;
+	width:950px;
+	overflow:hidden;
+	min-height:700px;
+}
+/**********************************************************************/
+/* VARIOS
+/**********************************************************************/
+#enconstruccion{
+	width:1500px;
+	height:300px;
+	background:url(../img/en-construccion.jpg) top no-repeat;
+}
+/**********************************************************************/
+/** ARRIBA **/
+/**********************************************************************/
+#top{
+	width:99%;
+	margin:0 auto;
+}
+.contieneTop{
+	width:950px;
+	margin:0 auto;
+}
+.menuTop{
+	position:absolute;
+	top:105px;
+	width:100%;
+	height:37px;
+	background:#891367;
+}
+.contenidoMenu{
+	width:930px;
+	overflow:hidden;
+	height:auto;
+	margin:0 auto;
+	line-height:37px;
+	color:#fff;
+}
+.contenidoMenu ul{
+	list-style:none;
+}
+.contenidoMenu li{
+	display:inline;
+	margin:0 7px 0 7px;
+	float:left;
+}
+.contenidoMenu li:hover{
+	color:#FF0;
+	cursor:pointer;
+}
+.sep{
+	height:24px;
+	margin-top:7px;
+	width:1px;
+	background:#fff;
+	float:left;
+}
+.logoTopLeft, .telefonoTopLeft{
+	width:422px;
+	height:95px;
+	float:left;
+	background:url(../img/logo-top.png) left bottom no-repeat;
+	margin:10px;
+}
+.telefonoTopLeft{
+	background:none;
+	height:79px;
+	margin-top:25px;
+	float:right;
+	font-size:26px;
+	text-align:right;
+	font-weight:bold;
+	color:#891367;
+}
+.telefonoTopLeft p{
+	font-size:12px;
+}
+
+.buscador{
+	width:362px;
+	height:59px;	
+	background:url(../img/buscador.png) left top no-repeat;
+	position:relative;
+	margin-top:-39px;
+	float:right;
+	z-index:1;
+}
+/***************************************************************/
+/** MENU **/
+/***************************************************************/
+
+/**********************************************************************/
+/** MEDIO **/
+/**********************************************************************/
+a.linkAvisos{
+	color:#390;
+}
+a.linkAvisos:hover{
+	color:#c30;
+}
+
+#medio{
+	width:930px;
+	margin:0 auto;
+	overflow:hidden;
+	height:auto;
+}
+.cajaFondo{
+	width:980px; 
+	margin:0 auto; 
+	overflow:hidden; 
+	height:auto;
+}
+.contieneNotas, .editorial{
+	width:640px; 
+	float:left;
+}
+
+.editorial{
+	border:1px solid #BF9A70;
+	background:#FBF5EF;
+	margin-bottom:15px;
+}
+.contieneEditorial{
+	margin:12px;
+}
+.contieneColNotas{
+	width:310px;
+}
+.celdaNota{
+	width:300px; 
+	padding:4px;
+	margin-bottom:10px;
+	border-top:1px solid #ccc;
+}
+
+.tituloNota{
+	font:Georgia, "Times New Roman", Times, serif;
+}
+.parrafoNota{
+	font:Arial, Helvetica, sans-serif;
+	padding-top:7px;
+}
+.cortarParrafo{
+	overflow:hidden;
+	min-height:100px;
+	max-height:295px;
+}
+.seccionNota{
+	font:10px Arial, Helvetica, sans-serif;
+	color:#000;
+}
+.fechaNota{
+	font:10px Arial, Helvetica, sans-serif;
+	color:#000;
+}
+.verMas{
+	font:12px Arial, Helvetica, sans-serif;
+	font:normal;
+}
+
+.rowLista{
+	padding:4px;
+	background:#f5f0f5; 
+	overflow:hidden; 
+	heigh:auto; 
+	border-bottom:1px solid #ccc;
+	border-left:1px solid #ccc;
+	border-right:1px solid #ccc;
+}
+.rowLista:hover{
+	cursor:pointer;
+	background:#FFC;
+}
+
+/***************************************************************/
+/**COLUMNA IZQUIERDA **/
+/***************************************************************/
+.contieneColLeft{
+	float:left;
+	width:370px;
+	overflow:hidden;
+	height:auto;
+	margin-top:10px;
+}
+.colLeft{
+	width:350px;
+	height:1044px;
+	height:1100px;
+	margin:0 auto;
+}
+/**********************************************************************/
+/** ABAJO **/
+/**********************************************************************/
+.pie{
+	width:950px;
+	height:37px;
+	margin:0 auto;
+	margin-bottom:10px;
+	border:1px solid #333;
+	border-top:1px solid #ccc;
+	border-right:1px solid #333;
+	padding:15px;
+	background:#891367;
+	color:#f8f8f8;
+}
+.kalfukura{
+	font-size:11px;
+	position:relative;
+	float:right;
+	text-align:right;
+	margin-right:10px;
+	margin-top:30px;
+	color:#f8f8f8;
+}
+.pie a{
+	color:#FF0;
+}
+.pie a:hover{
+	color:#f8f8f8;
+}
+/**********************************************************************/
+/** PAGINADOR **/
+/**********************************************************************/
+
+.paginador{
+	text-align:center;
+	background:#F7EA00;
+	border:1px solid #ccc;
+	padding:4px;
+	width:330px;
+	margin:0 auto;
+}
+.paginador ul{
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+.paginador li{
+	display:inline;
+	padding:0 3px 0 3px;
+	color:#999;
+}
+.paginador li:hover{
+	cursor:pointer;
+}
+.paginador .sel{
+	border:1px solid #ccc;
+	background:#fff;
+	color:#000;
+}
+.noFloat{
+	clear: both;
+	width: 15px;
+	height: 1px;
+}
